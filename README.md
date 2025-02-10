@@ -14,10 +14,10 @@ Stata - [Problem Set 5](https://github.com/roh-avu/Data-Analytics-Portfolio/blob
 - Conducted analyses of what cash grants did to education
 
 SQL 
-- *Part 1
+- *Part 1 - [SQL Project Part 1](https://github.com/roh-avu/Data-Analytics-Portfolio/blob/main/sql_projects/part1.sql)
 - Database Initialization: Creates the socialmeet database and structures essential tables for user and group data management.
 - Data Integrity and Relationships: Implements key constraints to ensure data integrity and relational links between tables.
-- *Part 2
+- *Part 2 - [SQL Project Part 2](https://github.com/roh-avu/Data-Analytics-Portfolio/blob/main/sql_projects/rohanavuthu_project%20part2.sql)
 - Query Implementation: Executes queries for data retrieval and analysis, such as user activities, group statistics, and content filtering.
 - Analytical Insights: Provides statistical outputs, including user engagement metrics and group popularity assessments.
 
