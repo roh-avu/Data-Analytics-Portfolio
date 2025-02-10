@@ -1,6 +1,5 @@
 //Rohan Avuthu
-//Problem Set 5
-//Econ 120
+
 
 
 cd "/Users/rohanavuthu/Desktop/econ120rohanavuthu"
