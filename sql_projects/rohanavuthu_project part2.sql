@@ -1,6 +1,6 @@
 /*  FINAL PART 2.sql
 	Rohan Avuthu
-	CS 31A, Winter 2023 */
+	 */
 
 -- uses database created in part 1
 use socialmeet;
