@@ -12,6 +12,8 @@ Stata - [Problem Set 5](https://github.com/roh-avu/Data-Analytics-Portfolio/blob
       - Test scores were also taken before and after the cash grants
       - control group students did not receive cash grants
 - Conducted analyses of what cash grants did to education
+- report on economic impact of UBI, https://docs.google.com/document/d/1HUri7phrQuLFuflSgKQLxY6RaPT_VYA0uSOFpDXxJ2M/edit?usp=sharing
+  
 
 SQL 
 - *Part 1 - [SQL Project Part 1](https://github.com/roh-avu/Data-Analytics-Portfolio/blob/main/sql_projects/part1.sql)
