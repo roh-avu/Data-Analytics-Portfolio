@@ -7,7 +7,7 @@ Georgia Tech MicroMasters - Data Analytics
 ### Work Experience
 
 ### Projects
-Stata
+Stata - [Problem Set 5](https://github.com/roh-avu/Data-Analytics-Portfolio/blob/main/problemset5.do)
 - used survey data from Uganda to conduct regressions on different responses from the survey.
 - Respondents answered questions like
       - Age, Gender, Whether they recieved cash grant, how much they recieved.
