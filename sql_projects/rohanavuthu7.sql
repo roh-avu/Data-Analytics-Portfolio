@@ -1,6 +1,6 @@
 /*  Assignment7.sql
 	Rohan Avuthu
-	CS 31A, Winter 2023 */
+	*/
 /* uses megastore database and drops tables if they already exist */
 USE megastore;
 
