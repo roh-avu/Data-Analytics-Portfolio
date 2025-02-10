@@ -2,9 +2,7 @@
 
 ### Education
 University of California Santa Cruz: Business Management Economics
-Georgia Tech MicroMasters - Data Analytics
 
-### Work Experience
 
 ### Projects
 Stata - [Problem Set 5](https://github.com/roh-avu/Data-Analytics-Portfolio/blob/main/problemset5.do)
