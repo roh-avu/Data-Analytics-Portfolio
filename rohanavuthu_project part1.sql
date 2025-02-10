@@ -1,6 +1,5 @@
 /*  FINAL PART 1.sql
-	Rohan Avuthu
-	CS 31A, Winter 2023 */
+	*/
 
 -- Creating database
 delimiter ;
