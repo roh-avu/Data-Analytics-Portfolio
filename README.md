@@ -25,3 +25,4 @@ SQL
 
 
 NBA Salary Predictions
+- Currently Working on R and Python Projects 
