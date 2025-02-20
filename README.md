@@ -23,8 +23,8 @@ SQL
 - Query Implementation: Executes queries for data retrieval and analysis, such as user activities, group statistics, and content filtering.
 - Analytical Insights: Provides statistical outputs, including user engagement metrics and group popularity assessments.
 
-R
-NBA Salary Predictions - Part 1
+R - Studio 
+- NBA Salary Predictions - Part 1
 - Data Cleaning: Identified and handled missing values through omission and imputation.
 - Data Analysis: Summarized key statistics and visualized distributions for important variables.
 - Player Performance: Analyzed top-performing players based on PER, TS, and VORP, comparing them to Stephen Curry.
