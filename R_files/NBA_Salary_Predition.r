@@ -1,14 +1,4 @@
----
-title: "Homework 2A"
-author: "Rohan Avuthu"
-date: "2024-02-15"
-output:
-  html_document:
-    df_print: paged
-  pdf_document:
-    number_sections: true
-  word_document: default
----
+
 
 ```{r setup, include=FALSE}
 # some useful settings
