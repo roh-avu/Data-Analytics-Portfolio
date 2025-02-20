@@ -23,6 +23,13 @@ SQL
 - Query Implementation: Executes queries for data retrieval and analysis, such as user activities, group statistics, and content filtering.
 - Analytical Insights: Provides statistical outputs, including user engagement metrics and group popularity assessments.
 
-
-NBA Salary Predictions
-- Currently Working on R and Python Projects 
+R
+NBA Salary Predictions - Part 1
+- Data Cleaning: Identified and handled missing values through omission and imputation.
+- Data Analysis: Summarized key statistics and visualized distributions for important variables.
+- Player Performance: Analyzed top-performing players based on PER, TS, and VORP, comparing them to Stephen Curry.
+- Data Preparation: Filtered data for US players and split into training and test sets.
+- Modeling: Built a logistic regression model to predict player salaries.
+- Model Evaluation: Assessed model performance using in-sample and out-of-sample R² metrics.
+- Future Work: Part 2 will include Lasso regressions to enhance the model.
+ 
